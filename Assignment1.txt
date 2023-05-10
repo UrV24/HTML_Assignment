@@ -1,0 +1,37 @@
+1.HTML tags are used to hold the HTML element. HTML elements holds the content.
+
+2.HTML tags are used to hold the HTML element. HTML element holds the content. HTML attributes are used to describe the characteristics of an HTML element in detail.
+HTML tag starts with < and end with >. Whatever written in HTML tag and element.
+
+3.A void element is an element whose content model never allows it to have contenets under any circumtances. The following is a complete list of the void elements in HTML :  col,img,meta,param,source,br,link,area,command,embed,input,keygrn,track,wbr.
+
+4.An HTML entities is a piece of text(string) that begins with an ampersand(&) and ends with a semicolon(;).
+
+5.There are 3 types of lists in HTML:1)ordered list, 2)Unorderd list, 3)Description list.
+
+6.The class attribute specifies one or more classname for an element. The class attribute is mostly used to point to a class in a stylesheet.
+
+7.The only different between them is that id is unique ina page and can only apply to at most one element, while class  selector can apply to mulptiple elements.
+
+8.The various formatting yags in html:
+  -<b> = bold text
+  -<strong> = Important text
+  -<em> = emphasized text
+  -<mark> = marked text
+  -<small> = smaller text
+  -<del> = deleted text
+  -<ins> = inserted text
+  -<sub> = subscript text
+  -<sup> = superscript text
+
+9.Cellpadding basically defines the space present between a table cell's border and the content present in it. Cellspacing basically defines the space present between individual adjacent cell.
+
+10.You can merge two or more table cells in a column using the colspan attribute in a <td> tag. To merge two or more row cells, use a rowspan attribute.
+
+11.By default, inline elements do not force a new line to begin in the document flow. Block elements, on the hand,typically cause a line break to occur.
+
+12.To made a hyperlink in an HTML page, use the <a> and </a> tags, which are the tags used to define the links.
+
+13.The <iframe> tag specifies an inline frame. An inline frame is used to embed another document within the current HTML document.
+
+14.The <span> tag is an inline container used to mark up a part of a text, or a part of a document. The <span> tag is easily styled by CSS or manipulated with javascript using the class or id attribute. The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
