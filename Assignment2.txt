@@ -1,0 +1,70 @@
+1. CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, etc. CSS saves time − You can write CSS once and then reuse the same sheet in multiple HTML pages.
+
+2.  CSS, CSS 1 up to CSS3, result in creating of confusion among  web browsers.
+-With CSS, what works with one browser might not always work with another. The web developers need to test for compatibility, running the program across multiple browsers.
+-There exists a scarcity of security.
+-After making the changes we need to confirm the compatibility if they appear. The similar change affects on all the browsers.
+-The programing language world is complicated for non-developers and beginners. Different levels of CSS i.e. CSS, CSS 2, CSS 3 are often quite confusing.
+-Browser compatibility (some styles sheet are supported and some are not).
+-There might be cross-browser issues while using CSS.
+-There are multiple levels which creates confusion for non-developers and beginners.
+
+3. CSS3 is split into many various documents known as Modules. each module adds new capability or extends options outlined in CSS2 over conserving backward compatibility. Work on CSS3 started around the time of publication of the initial CSS2 recommendation.
+-The CSS3 version supports more browsers than CSS2.
+-CSS3 introduces several new selectors. Those new selectors square measure largely in an exceeding type of pseudo-elements and pseudo-categories.
+-The new addition of General relation Combinator will be wont to match relation parts of a given part through diacritic (~) combinator.
+-CSS3 introduces several properties attended with new values and units. It facilitates styling of backgrounds, borders, boxes, etc…, that permits the USA to stay most of the styling at intervals the computer network and HTML standards and our document, while not a necessity for all those proprietary third-party package packages.
+
+4. The components of css style are:
+1)Selecter:HTML element name, id name, class name.
+2)Property:It's like an attribute such as background color, font size,position,text-align,color,border etc.
+3)Values: which define property or values allocated for properties.
+
+5. The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind an element is hidden, and is the opposite of transparency.
+
+6. Add a CSS class to the div you'd like to change. First, find the div in your HTML code and add a class to the opening tag. ...
+-Add the new class selector to your CSS code. Next, head over to your CSS code and add your new class selector. ...
+-Choose a new background color.
+-body {background-color: #DBF9FC;}
+
+7. To control the repetition of an image in the background, use the background-repeat property. You can use no-repeat value for the background-repeat property if you do not want to repeat an image, in this case, the image will display only once.
+8. The background-position property sets the starting position of a background image. 
+- By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
+-Default value: 0% 0%
+
+9. The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed.
+
+10. It enhances the legibility of style sheets. The background property is a complex property in CSS, and if it is combined with color, the complexity will further increase.
+-Color is an inherited property while the background is not. So this can make confusion further.
+
+11. In order to center the block-level elements, we need to set the margin-right and margin-left properties to explicit values.
+
+12.There are three ways to add CSS to HTML. You can add inline CSS in a style attribute to style a single HTML element on the page. You can embed an internal stylesheet by adding CSS to the head section of your HTML doc. Or you can link to an external stylesheet that will contain all your CSS separate from your HTML.
+1.inline
+2.internal 
+3.external
+
+13. External CSS: CSS code is stored in a separate file and linked to the HTML file using the <link> tag.
+-Internal CSS: CSS code is included in the <head> section of the HTML file using the <style> tag.
+-Inline CSS: CSS code is included in the HTML tags using the style attribute.
+
+14. Embedded style sheets are particularly useful for HTML documents that have unique style requirements from the rest of the documents in your project. However, if the styles need to be applied across multiple documents, you should link to an external style sheet instead of using individual embedded style sheets.
+
+15. An external style sheet is a separate CSS file that can be accessed by creating a link within the head section of the webpage. Multiple webpages can use the same link to access the stylesheet. The link to an external style sheet is placed within the head section of the page.
+
+16. advantages of External CSS:
+	-Since the CSS code is in a separate document, your HTML files will have a cleaner structure and 	are smaller in size.
+	-You can use the same .css file for multiple pages.
+-Disadvantages of External CSS:
+	-Your pages may not be rendered correctly until the external CSS is loaded.
+	-Uploading or linking to multiple CSS files can increase your site’s download time.
+
+17. In CSS, selectors are used to target the HTML elements on our web pages that we want to style. There are a wide variety of CSS selectors available, allowing for fine-grained precision when selecting elements to style. In this article and its sub-articles we'll run through the different types in great detail, seeing how they work.
+
+
+18. continuous or paged.
+visual, audio, speech, or tactile.
+grid (for character grid devices), or bitmap.
+interactive (for devices that allow user interaction), or static (for those that do not).
+
+19.  A rule set is a grouping of code analysis rules that identify targeted issues and specific conditions for that project. For example, you can apply a rule set that's designed to scan code for publicly available APIs. You can also apply a rule set that includes all the available rules.
